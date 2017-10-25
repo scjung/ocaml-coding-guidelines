@@ -1,0 +1,4 @@
+baseurl = "http://scjung.github.io/ocaml-coding-guidelines"
+languageCode = "en-us"
+title = "OCaml Coding Guidelines"
+canonifyurls: true
