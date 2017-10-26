@@ -1,3 +1,3 @@
 # OCaml Coding Guidelines
 
-*Under active devlopment. Currently only available in Korean.*
+*Under active development. Currently only available in Korean.*
